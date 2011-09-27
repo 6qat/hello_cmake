@@ -1,6 +1,6 @@
-How to compile:
+# How to compile :
 
-- Create a build directory and "cd" into it.
-- cmake ..
-- make
+* Create a build directory and "cd" into it.
+* cmake ..
+* make
 
