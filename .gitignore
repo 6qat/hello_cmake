@@ -1,2 +1,10 @@
 build/
-
+.cproject
+.project
+CmakeCache.txt
+CmakeFiles/
+Makefile
+cmake_install.cmake
+hello_cmake
+moc*
+ui_*

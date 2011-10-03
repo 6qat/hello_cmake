@@ -27,6 +27,7 @@ void myQtApp::getPath()
 		QString::null);
 
 	lineEdit->setText( path );
+
 }
 
 
